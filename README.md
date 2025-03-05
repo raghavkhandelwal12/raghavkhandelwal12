@@ -3,7 +3,7 @@
 I'm a passionate data scientist with expertise in Python, AI, and machine learning.
 
 ### About Me:
-- 🌱 Currently diving into the world of deep learning, mastering Python libraries for advanced data analysis.
+- 🌱 Currently diving into the world of deep learning, mastering Python libraries for AI Integration.
 - 💻 Actively practicing and refining coding skills, particularly in implementing machine learning algorithms.
 
 - Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://Raghavkhandelwal12.github.io/)
